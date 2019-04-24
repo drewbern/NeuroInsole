@@ -1,1 +1,1 @@
-# NeuroInsole
+# NeuroSole
